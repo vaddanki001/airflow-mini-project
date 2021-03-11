@@ -1,0 +1,11 @@
+2021-03-08 14:41:53,498 INFO - Starting the scheduler
+2021-03-08 14:41:53,499 INFO - Processing each file at most -1 times
+2021-03-08 14:41:53,512 INFO - Launched DagFileProcessorManager with pid: 19640
+2021-03-08 14:41:53,514 INFO - Resetting orphaned tasks for active dag runs
+2021-03-08 14:41:53,524 INFO - Configured default timezone Timezone('America/Los_Angeles')
+2021-03-08 14:45:03,440 WARNING - DagFileProcessorManager (PID=19640) exited with exit code -9 - re-launching
+2021-03-08 14:45:03,475 INFO - Launched DagFileProcessorManager with pid: 20054
+2021-03-08 14:45:03,509 INFO - Configured default timezone Timezone('America/Los_Angeles')
+2021-03-08 14:45:25,046 WARNING - DagFileProcessorManager (PID=20054) exited with exit code -9 - re-launching
+2021-03-08 14:45:25,067 INFO - Launched DagFileProcessorManager with pid: 20121
+2021-03-08 14:45:25,116 INFO - Configured default timezone Timezone('America/Los_Angeles')
